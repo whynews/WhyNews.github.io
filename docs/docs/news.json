@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "title": "AI Tools Surge in 2025",
+      "summary": "Automation is accelerating across industries with lightweight AI agents.",
+      "image": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?q=80&w=1200&auto=format&fit=crop",
+      "url": "https://example.com/ai-tools-2025",
+      "category": "Tech",
+      "date": "2025-08-30"
+    },
+    {
+      "title": "Global Climate Summit Sets Targets",
+      "summary": "Nations agreed on a roadmap to speed up clean energy adoption.",
+      "image": "https://images.unsplash.com/photo-1502303756782-3b0e1a1b4f54?q=80&w=1200&auto=format&fit=crop",
+      "url": "https://example.com/climate-summit",
+      "category": "World",
+      "date": "2025-08-30"
+    }
+  ]
+}
